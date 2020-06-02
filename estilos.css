@@ -131,8 +131,9 @@ footer .redes-sociales a:hover {
     }
     footer .redes-sociales{
         order: 0;
+        margin-bottom: 20px;
     }
-    margin-bottom: 20px;
+    
 }
 @media screen and (max-width: 400px) {
     aside {
