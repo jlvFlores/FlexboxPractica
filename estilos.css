@@ -105,7 +105,7 @@ footer .redes-sociales a:hover {
         width: 40%;
     }
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 675px){
     header {
         flex-direction: column;
         padding-bottom: 20px;
